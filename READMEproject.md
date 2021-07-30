@@ -6,7 +6,16 @@ This project project utilized a couple different languages and dependicies to be
 While working through this project I learned how to dynamically insert information, and obtained greater understanding of how much functions call accomplish.
 
 ## Project Examples 
+To begin using this project type npm i in your command terminal.
+![](assets/pic1.png)
 
+You will be prompted with several questions to answer that will populate your generated README.md file.
+![](assets/pic2.png)
+
+The information you provided will be shown again and generated into a brand me README.md file
+![](assets/pic3.png)
+
+[Link to Screencastify recording of project in use](https://drive.google.com/file/d/1tpoZ29VfWFFBgpRUOhQoGHUO1W1DQN0h/view)
 ## Installation
 
 ## Usage
