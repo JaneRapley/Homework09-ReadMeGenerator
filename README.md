@@ -1,9 +1,9 @@
-# asdfasdf
+# Professional README Generator
 
-  ![License](https://img.shields.io/badge/License-APACHE%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg)
 
   ## Description
-  983728937
+  This project is a README generator used in the command line.
 
   ## Table of Contents
   * [installation](#installation)
@@ -14,23 +14,23 @@
 
   ## License
 
-    This project is licensed under APACHE 2.0 for this project.
+    This project is licensed under GPL 3.0 for this project.
 
   ## Installation 
   Install the project by running the following script 
-  asdf
+  npm i
 
   ## Usage
-  asdagi
+  This project when deployed will be used in the command line.
 
   ## Contributing
-  kkkkkkkkk
+  Myself, the internet, and my tutor
 
   ## Test
   To run test run the following command nmp test
 
   ## Contact
   if you have any questions contact me at
-  2ieifja;ds 
+  rapley.jane@gmail.com 
   view more of my work at
-  [28723975](https://github.com/28723975)
+  [JaneRapley](https://github.com/JaneRapley)
